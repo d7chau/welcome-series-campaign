@@ -1,0 +1,10 @@
+﻿EmailAddress,FirstName,LastName,City,FavoriteBrand,OptIn,OptInSource
+ralph@company.com,Ralph,Macdonald,Toronto,Nike,TRUE,Website
+sasha@company.com,Sasha,Williams,Toronto,Adidas,TRUE,Website
+isabelle@company.com,Isabelle,Chen,Vancouver,Puma,TRUE,Website
+warren@company.com,Warren,Buffet,Toronto,Jordan,TRUE,Website
+michele@company.com,Michele,Zhang,Vancouver,Reebok,TRUE,Website
+james@company.com,James,Miller,Vancouver,Nike,TRUE,Website
+mark@company.com,Mark,Garcia,Vancouver,Nike,TRUE,Website
+ben@company.com,Ben,Jones,Toronto,Nike,TRUE,Website
+david@company.com,David,Jackson,Toronto,Nike,TRUE,Website
